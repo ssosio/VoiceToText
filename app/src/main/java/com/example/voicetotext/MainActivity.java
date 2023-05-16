@@ -24,7 +24,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
         btn.setOnClickListener(this);
 
         tv = findViewById(R.id.tv);
-        
+
 
     }
 
@@ -33,3 +33,4 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
 
     }
 }
+//터미널변경
